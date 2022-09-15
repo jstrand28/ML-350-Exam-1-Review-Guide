@@ -51,3 +51,25 @@
 
 ### Types of Skills
 
+*Technical skills*
+- [ ] The job-specific knowledge needed to perform well in a specialized field.
+
+*Conceptual skills*
+- [ ] The ability to think analytically, to visualize an organization as a whole and understand how the parts work together.
+
+*Human skills (soft skills)*
+- [ ] The ability to work well in cooperation with other people to get things done; the ability to motivate, to inspire trust, to communicate with others.
+
+### Competitive advantage
+
+*Definition*
+- [ ] The ability of an organization to produce goods or services more effectively than competitors do, thereby outperforming them.
+
+*Having a competitive advantage means*
+1. - [ ] Being responsive to customers.
+2. - [ ] **Innovation**: finding ways to deliver better goods and services.
+3. - [ ] **Quality**: making improvements in quality so that consumers choose your product.
+4. - [ ] **Efficiency**: overstaffing and overuse of raw materials can make you less competitive.
+
+## Chapter 2
+
