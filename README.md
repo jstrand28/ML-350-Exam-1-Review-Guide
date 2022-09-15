@@ -91,3 +91,7 @@
 
 ## Influential Management scholars
 
+**Henri Fayol**
+
+*Concerned with managing the **Total Organization***
+- [ ] 
