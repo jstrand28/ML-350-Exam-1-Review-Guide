@@ -43,5 +43,5 @@
 *Decisional roles*
 - [ ] Use information to make decisions to solve problems or take advantages of opportunities.(**Entrepreneur, disturbance handler, resource allocator, negotiator**)
 - [ ] Henry Mintzberg's useful findings:
-1. [ ] A manager relies more on **verbal** than on **written** communication.
-2. [ ] A manager works long hours at an **intense** pace.
+1. - [ ] A manager relies more on **verbal** than on **written** communication.
+2. - [ ] A manager works long hours at an **intense** pace.
