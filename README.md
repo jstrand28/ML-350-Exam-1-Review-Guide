@@ -45,9 +45,9 @@
 
 *Manager's roles*
 - [ ] Henry Mintzberg's useful findings:
-1. - [ ] A manager relies more on **verbal** than on **written** communication.
-2. - [ ] A manager works long hours at an **intense** pace.
-3. - [ ] A manger's work is characterized by **fragmentation**, brevity, and variety.
+- [ ] 1. A manager relies more on **verbal** than on **written** communication.
+- [ ] 2. A manager works long hours at an **intense** pace.
+- [ ] 3. A manger's work is characterized by **fragmentation**, brevity, and variety.
 
 ### Types of Skills
 
@@ -66,10 +66,10 @@
 - [ ] The ability of an organization to produce goods or services more effectively than competitors do, thereby outperforming them.
 
 *Having a competitive advantage means*
-1. - [ ] Being responsive to customers.
-2. - [ ] **Innovation**: finding ways to deliver better goods and services.
-3. - [ ] **Quality**: making improvements in quality so that consumers choose your product.
-4. - [ ] **Efficiency**: overstaffing and overuse of raw materials can make you less competitive.
+- [ ] 1. Being responsive to customers.
+- [ ] 2. **Innovation**: finding ways to deliver better goods and services.
+- [ ] 3. **Quality**: making improvements in quality so that consumers choose your product.
+- [ ] 4. **Efficiency**: overstaffing and overuse of raw materials can make you less competitive.
 
 ## Chapter 2
 
@@ -100,11 +100,11 @@
 - [ ] Believed that a **bureaucracy** was a rational, efficient, ideal organization based on the **Principles of logic**.  Weber's work was translated into English in 1947.
 
 *5 Principles of Logic*
-1. - [ ] A well-defined hierarchy of authority.
-2. - [ ] Formal rules and procedures.
-3. - [ ] A clear division of labor.
-4. - [ ] Impersonality.
-5. - [ ] Careers based on merit.
+- [ ] 1. A well-defined hierarchy of authority.
+- [ ] 2. Formal rules and procedures.
+- [ ] 3. A clear division of labor.
+- [ ] 4. Impersonality.
+- [ ] 5. Careers based on merit.
 
 ### Hawthorne Effect
 
@@ -148,4 +148,62 @@
 ### Ethics and Values
 
 *Ethics*
-- [ ] standards
+- [ ] Standards of right and wrong that influence behavior. May Vary among countries and cultures.
+
+*Values*
+- [ ] Relatively permanent and deeply held underlying beliefs and attitudes that help determine a person's behavior.
+
+### Ethical Dilemmas
+
+*General Assumption*
+- [ ] Assumes that people will act ethically in the short run to avoid harm in the long run. Flaw is one person’s short-term gain may not be good for everyone in the long term.
+
+*Four Approaches*
+1. *Utilitarian Approach*
+- [ ] Guided by what will result in the greatest good for the greatest number of people. **Often associated with financial performance.**
+
+2. *Individual Approach*
+- [ ] Guided by what will result in the individual's best long-term interest, which **ultimately is in everyone's self-interest.**
+
+3. *Moral-Rights Approach*
+- [ ] Guided by respect for the fundamental rights of human beings: **the right to life, liberty, privacy, health, safety, and due process.**
+
+4. *Justice Approach*
+- [ ] Guided by respect for impartial standards of fairness and equity.  Policies administered impartially and fairly, regardless of gender, age, sexual orientation, and the like.
+
+### Community of Stakeholders
+
+#### Internal
+
+*Definition*
+- [ ] Consist of employees, owners, and the board of directors.
+
+1. **Owners**
+
+- [ ] Consists of all those who can claim the organization as their legal property.
+
+2. **Board of directors**
+
+- [ ] Members elected by the stockholders to see that the company is being run according to their interests.
+
+#### External
+
+*Definition*
+- [ ] People or groups in the organization's external environment that are affected by it.
+
+### Environments
+
+#### The Task Environment
+
+- [ ] Consists of 10 groups that present an organization with daily tasks to handle.
+
+### The General Environment
+
+#### Economic Forces
+
+- [ ] Consists of the general economic conditions and trends: **unemployment**, **inflation**, **interest rates**, **economic growth**.
+
+#### Technological Forces
+
+- [ ] New developments in methods for transforming resources into goods and services.
+- [ ] Influences and trends originating in **a country's**, **a society's**, or **a culture's**
