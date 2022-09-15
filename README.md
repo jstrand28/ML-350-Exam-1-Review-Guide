@@ -73,3 +73,21 @@
 
 ## Chapter 2
 
+### Historical and Contemporary Views
+
+*Historical Perspective*
+- [ ] Which includes the **classical**, **behavioral**, and **quantitative** viewpoints.
+
+*Contemporary Perspective*
+- [ ] Which includes the **systems**, **contingency**, and **quality-management** viewpoints.
+
+### Various approaches to management
+
+*Taylor & the Gilbreths(**scientific management**)*
+- [ ] Emphasizes the scientific study of work methods ot improve the productivity of individual workers.
+
+*Charles Clinton Spaulding(**Fundamental Necessities of Management**)*
+- [ ] He was one of the first management practitioners to highlight the need to enrich *"the lives of his organizational and community family"* while simultaneously making a profit.
+
+## Influential Management scholars
+
