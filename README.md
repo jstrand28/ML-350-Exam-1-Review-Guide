@@ -94,4 +94,4 @@
 **Henri Fayol**
 
 *Concerned with managing the **Total Organization***
-- [ ] 
+- [ ] He was the first ot systematize management behavior, and he was the first to identify the major functions of management: **planning, organizing, leading, controlling, and coordinating.**
