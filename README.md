@@ -335,4 +335,5 @@
 - [ ] 1. rise of global village and e-commerce.
 - [ ] 2. world becoming one market instead of many national ones.
 - [ ] 3. the rise of both megafirms and internet-enabled minifirms worldwide.
+
 [Table of Contents](#return)
