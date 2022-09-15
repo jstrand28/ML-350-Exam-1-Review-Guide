@@ -2,11 +2,14 @@
 
 ## Table of Context
 
-[Chapter 1](#destinationLinkName)
+- [Chapter 1](#destinationLinkName)
 
-## Chapter 1
+- [Chapter 2](#destinationLinkName1)
+
+- [Chapter 3](#destinationLinkName2)
 
 <a id="destinationLinkName"></a>
+## Chapter 1
 
 ### 4 functions of management
 
@@ -76,6 +79,7 @@
 - [ ] 3. **Quality**: making improvements in quality so that consumers choose your product.
 - [ ] 4. **Efficiency**: overstaffing and overuse of raw materials can make you less competitive.
 
+<a id="destinationLinkName1"></a>
 ## Chapter 2
 
 ### Historical and Contemporary Views
@@ -148,6 +152,7 @@
 6. **Current** Events accomplishments.
 7. Comments from current or previous employers.
 
+<a id="destinationLinkName2"></a>
 ## Chapter 3
 
 ### Ethics and Values
