@@ -1,5 +1,6 @@
 # ML-350-Exam-1-Review-Guide
 
+<a id="return"></a>
 ## Table of Context
 
 - [Chapter 1](#destinationLinkName)
@@ -7,6 +8,8 @@
 - [Chapter 2](#destinationLinkName1)
 
 - [Chapter 3](#destinationLinkName2)
+
+- [Chapter 4](#destinationLinkName3)
 
 <a id="destinationLinkName"></a>
 ## Chapter 1
@@ -78,6 +81,8 @@
 - [ ] 2. **Innovation**: finding ways to deliver better goods and services.
 - [ ] 3. **Quality**: making improvements in quality so that consumers choose your product.
 - [ ] 4. **Efficiency**: overstaffing and overuse of raw materials can make you less competitive.
+
+[Table of Contents](#return)
 
 <a id="destinationLinkName1"></a>
 ## Chapter 2
@@ -151,6 +156,8 @@
 5. The company's **products**, **service**, and **clients**. 
 6. **Current** Events accomplishments.
 7. Comments from current or previous employers.
+
+[Table of Contents](#return)
 
 <a id="destinationLinkName2"></a>
 ## Chapter 3
@@ -261,3 +268,49 @@
 
 **[*crowdfunding*]**
 - [ ] raising money for a project by obtaining many small amounts of money from many people (the crowd).
+
+[Table of Contents](#return)
+
+<a id="destinationLinkName3"></a>
+## Chapter 4
+
+### Characteristics of a successful international manager
+- [ ] Be patient
+- [ ] Be quiet
+- [ ] Listen
+- [ ] Don't use slang
+- [ ] Don't talk about wealth.
+- [ ] Be Global in your focus, but study on local customs
+- [ ] Learn what is appropriate behavior (gestures, eye contact, etc.).
+- [ ] Become at least minimally skilled in the language.
+
+### Basics of Globalization
+
+- [ ] The trend of the world economy toward becoming a more interdependent system.
+
+### Five ways to expand
+- [ ] The five major ways of expanding internationally, from low risk and investment to high risk and investment.
+
+#### 1. Global Outsourcing
+
+- [ ] **Also called offshoring:** using suppliers outside the United States to provide **labor**, **goods**, or **services**.
+
+#### 2. Importing, Exporting, & Countertrading
+
+*Exporting*
+- [ ] A company buys goods outside the country and resells them domestically.
+*Importing*
+- [ ] A company produces goods domestically and sells them outside the country.
+*Coutertrading*
+- [ ] bartering goods for goods.
+
+#### 3. Licensing & Franchising
+
+*Licensing*
+- [ ] A company allows a foreign company to pay it a fee to make or distribute the firm’s product or service.
+*Franchising*
+- [ ] A company allows a foreign company to pay it a fee and a share of the profit in return for using the company’s brand name and a package of materials and services.
+
+#### 4. 
+
+#### 5. 
