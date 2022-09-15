@@ -3,13 +3,13 @@
 <a id="return"></a>
 ## Table of Context
 
-- [Chapter 1](#destinationLinkName)
+[Chapter 1](#destinationLinkName)
 
-- [Chapter 2](#destinationLinkName1)
+[Chapter 2](#destinationLinkName1)
 
-- [Chapter 3](#destinationLinkName2)
+[Chapter 3](#destinationLinkName2)
 
-- [Chapter 4](#destinationLinkName3)
+[Chapter 4](#destinationLinkName3)
 
 <a id="destinationLinkName"></a>
 ## Chapter 1
