@@ -89,9 +89,59 @@
 *Charles Clinton Spaulding(**Fundamental Necessities of Management**)*
 - [ ] He was one of the first management practitioners to highlight the need to enrich *"the lives of his organizational and community family"* while simultaneously making a profit.
 
-## Influential Management scholars
+### Influential Management scholars
 
 **Henri Fayol**
 
 *Concerned with managing the **Total Organization***
 - [ ] He was the first ot systematize management behavior, and he was the first to identify the major functions of management: **planning, organizing, leading, controlling, and coordinating.**
+
+**Max Weber**
+- [ ] Believed that a **bureaucracy** was a rational, efficient, ideal organization based on the **Principles of logic**.  Weber's work was translated into English in 1947.
+
+*5 Principles of Logic*
+1. - [ ] A well-defined hierarchy of authority.
+2. - [ ] Formal rules and procedures.
+3. - [ ] A clear division of labor.
+4. - [ ] Impersonality.
+5. - [ ] Careers based on merit.
+
+### Hawthorne Effect
+
+*What is it?*
+- [ ] Employees worked harder if they recieved added attention and thought that managers cared about their welfare and that supervisors paid special attention to them.  They succeeded in drawing attention to the importance of **"social man"***(social beings)* and how managers using good human relations could improve worker productivity.
+
+### Learning Organizations
+
+*Definition*
+- [ ] workers are encouraged to share information with each other - both inside and outside their department.
+
+*Three key functions or roles:*
+1. - [ ] Build a commitment to learning.
+2. - [ ] Work to generate ideas with impact.
+3. - [ ] Work to generalize ideas with impact.
+
+### Theory X and Theory Y
+
+*Theory X*
+- [ ] Represents a pessimistic, negative view of workers
+
+*Theory Y*
+- [ ] Represents an optimistic, positive view of workers.
+
+### Best Practices for preparing for an *Interview*
+
+*How many practices?*
+- [ ] 7 practices
+
+*What are the practices?*
+1. The company's **mission and vision statements**.
+2. The company's **core values and culture**.
+3. The **history** of the company.
+4. **Key** organizational **players**.
+5. The company's **products**, **service**, and **clients**. 
+6. **Current** Events accomplishments.
+7. Comments from current or previous employers.
+
+## Chapter 3
+
