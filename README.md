@@ -1,7 +1,12 @@
 # ML-350-Exam-1-Review-Guide
 
+## Table of Context
+
+[Chapter 1](#destinationLinkName)
 
 ## Chapter 1
+
+<a id="destinationLinkName"></a>
 
 ### 4 functions of management
 
@@ -206,4 +211,48 @@
 #### Technological Forces
 
 - [ ] New developments in methods for transforming resources into goods and services.
-- [ ] Influences and trends originating in **a country's**, **a society's**, or **a culture's**
+
+#### Sociocultural Forces
+
+- [ ] Influences and trends originating in **a country's**, **a society's**, or **a culture's** human relationships and values that may affect an organization.
+
+#### Demographic Forces
+
+- [ ] Influences on an organization arising from changes in the characteristics of a population, such as **age**, **gender**, or **ethnic origin**.
+
+#### Political-Legal Forces
+
+- [ ] Changes in the way politics shape laws and laws shape the opportunities for and threats to an organization.
+
+#### International Forces
+
+- [ ] Changes in the **economic**, **political**, **legal**, and **technological global** system that may affect an organization.
+
+### Task Enviroment
+
+*Customers*
+- [ ] Those who pay to use an organization's goods or services.
+
+*Competitors*
+- [ ] People or organizations that compete for customers or services
+
+*Supplier*
+- [ ] Provides raw materials, services, equipment, labor, or energy to other organizations.
+
+*Distributor*
+- [ ] A person or organization that helps another organization sell its goods and services to customer.
+
+*Strateic allies*
+- [ ] The relationship of two organizations who join forces to achieve advantages, neither can perform as well alone.
+
+*Employee Orgizations*
+- [ ] Labor unions and professional associations.
+
+*Local Communities*
+- [ ] May institute:
+
+**[*clawbacks:*]**
+- [ ] rescinding tax breaks when firms don't deliver promised jobs.
+
+**[*crowdfunding*]**
+- [ ] raising money for a project by obtaining many small amounts of money from many people (the crowd).
