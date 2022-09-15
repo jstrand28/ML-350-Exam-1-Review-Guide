@@ -311,6 +311,28 @@
 *Franchising*
 - [ ] A company allows a foreign company to pay it a fee and a share of the profit in return for using the company’s brand name and a package of materials and services.
 
-#### 4. 
+#### 4. Joint ventures
 
-#### 5. 
+- [ ]  Formed with a foreign company to share the risks and rewards of starting a new enterprise together in a foreign country.
+
+#### 5. Wholly-owned subsidiary
+
+- [ ] Foreign subsidiary that is totally owned and controlled by an organization.  
+*Greenfield venture*: 
+- [ ] a foreign subsidiary that the owning organization has built from scratch.
+
+### Barriers of free trade
+
+*Triffs*
+- [ ] Customs, duty, or tax, levied mainly on imports.
+*Import quotas*
+- [ ] Limits on the numbers of a product that can be imported.
+*Embargos*
+- [ ] Complete bans on trade between one country and another.
+*Sanctions*
+- [ ] A trade prohibition on certain types of products or services for a specific reason (for example, nuclear proliferation)
+### Effects of Globalization
+- [ ] 1. rise of global village and e-commerce.
+- [ ] 2. world becoming one market instead of many national ones.
+- [ ] 3. the rise of both megafirms and internet-enabled minifirms worldwide.
+[Table of Contents](#return)
