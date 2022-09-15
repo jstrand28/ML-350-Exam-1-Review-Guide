@@ -117,9 +117,9 @@
 - [ ] workers are encouraged to share information with each other - both inside and outside their department.
 
 *Three key functions or roles:*
-1. - [ ] Build a commitment to learning.
-2. - [ ] Work to generate ideas with impact.
-3. - [ ] Work to generalize ideas with impact.
+- [ ] 1. Build a commitment to learning.
+- [ ] 2. Work to generate ideas with impact.
+- [ ] 3. Work to generalize ideas with impact.
 
 ### Theory X and Theory Y
 
@@ -145,3 +145,7 @@
 
 ## Chapter 3
 
+### Ethics and Values
+
+*Ethics*
+- [ ] standards
