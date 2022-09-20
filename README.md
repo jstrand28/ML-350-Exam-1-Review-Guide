@@ -325,12 +325,15 @@
 
 ### Barriers of free trade
 
-*Triffs*
+*Tariffs*
 - [ ] Customs, duty, or tax, levied mainly on imports.
+
 *Import quotas*
 - [ ] Limits on the numbers of a product that can be imported.
+
 *Embargos*
 - [ ] Complete bans on trade between one country and another.
+
 *Sanctions*
 - [ ] A trade prohibition on certain types of products or services for a specific reason (for example, nuclear proliferation)
 ### Effects of Globalization
