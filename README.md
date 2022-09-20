@@ -11,6 +11,8 @@
 
 [Chapter 4](#destinationLinkName3)
 
+[Flash cards](https://github.com/jstrand28/ML-350-Exam-1-Review-Guide/blob/main/Exam%201%20Flash%20cards.pdf)
+
 <a id="destinationLinkName"></a>
 ## Chapter 1
 
